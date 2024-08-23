@@ -1,0 +1,11 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.page-title{
+    background-color: skyblue;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+}
