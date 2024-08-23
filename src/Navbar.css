@@ -1,0 +1,18 @@
+.navbar{
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.navbar-link{
+    color: white;
+    margin: 0 20px;
+
+}
+.logo{
+    font-size: 25px;
+    font-weight:bold ;
+    font-style: italic;
+    margin-right: 100px;
+}
